@@ -6,7 +6,7 @@ I am obsessed with hacking low-level systems and understanding exactly how thing
 My current research focuses on custom x86 kernel development and hardware reverse engineering.
 
 ## Projects worth taking a look at
- * [**Inari**](https://github.com/Artingl/Inari) x86 kernel from scratch in **C** and **Assembly**, featuring memory management (pmm/vmm), ring 3 userspace, custom libc implementation, network stack (arp/icmp/ipv4/ethernet), GUI compositor, IPC.
+ * [**Inari**](https://github.com/Artingl/Inari) x86 kernel from scratch in **C** and **Assembly**, featuring memory management (pmm/vmm), ring 3 userspace, custom libc implementation, network stack (arp/icmp/ipv4/ethernet/udp), GUI compositor, IPC.
  * [**thegame**](https://github.com/Artingl/thegame) 3D engine written from scratch using **Java** with LWJGL and Bullet Physics, ECS, custom rendering pipeline. Embedded real linux VM inside the game, with a goal to make it interact directly with the game.
  * [**Asahi Linux M3 Patch**](https://gist.github.com/Artingl/c5e7f9fbb0307f7c236e29e4f1fc1f8e): Reverse-engineered Apple's M3 NVMe `ans` kexts to patch and boot Asahi Linux on local M3 hardware.
  * [**Salix**](https://github.com/Artingl/Salix/tree/d77327cc9a8e6a25e65ae2363d02e70dd7023933) Compilable programming language from AST-to-x86, made back when I was 16.
